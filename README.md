@@ -15,6 +15,14 @@ MarketMaven is a web app that uses machine learning to predict stock prices and 
 
 <br>
 
+<div align='center'>
+
+[How To Use](https://user-images.githubusercontent.com/31251655/233290451-bd59967e-f521-41d5-82c7-544ead4becc4.webm)
+
+</div>
+
+<br>
+
 > **Note**
 > The application is under development 👨🏻‍💻, some breaking changes are expected :) 
 
